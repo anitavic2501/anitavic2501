@@ -2,9 +2,9 @@
 👋🏼 Hi there ! Welcome to my GitHub profile!
 I am Anita, Business Intelligence Developer/Data Analyst based in Auckland, New Zealand! 
 
-📌 I am interested in cloud-based data engineering and am currently learning Azure Synapse. 👩‍💻
+📌 I am interested in cloud-based data engineering and am currently learning AWS cloud 👩‍💻
 
-📌 My expertise lies in end-to-end BI solution architecture from data extraction, ETL, data modelling, data warehouse and visualisation, and my skills include SQL, MS BI suite (SSIS, SSAS, SSRS), Power BI, and dimensional modelling, etc.
+📌 My expertise lies in end-to-end BI solution architecture from data extraction, ETL, data modelling, data warehouse and visualisation, and my skills include SQL, Python, MS BI suite (SSIS, SSAS, SSRS), Power BI, and dimensional modelling, etc.
 
 🎯 Currently, I'm open to opportunities in roles such as 𝘉𝘶𝘴𝘪𝘯𝘦𝘴𝘴 𝘐𝘯𝘵𝘦𝘭𝘭𝘪𝘨𝘦𝘯𝘤𝘦 𝘈𝘯𝘢𝘭𝘺𝘴𝘵, 𝘉𝘶𝘴𝘪𝘯𝘦𝘴𝘴 𝘐𝘯𝘵𝘦𝘭𝘭𝘪𝘨𝘦𝘯𝘤𝘦 𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳, 𝘋𝘢𝘵𝘢 𝘈𝘯𝘢𝘭𝘺𝘴𝘵, 𝘋𝘢𝘵𝘢/𝘉𝘶𝘴𝘪𝘯𝘦𝘴𝘴 𝘐𝘯𝘴𝘪𝘨𝘩𝘵 𝘈𝘯𝘢𝘭𝘺𝘴𝘵
 
