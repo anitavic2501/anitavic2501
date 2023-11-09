@@ -1,5 +1,6 @@
 ### 
 👋🏼 Hi there ! Welcome to my GitHub profile!
+
 I am Anita, Business Intelligence Developer/Data Analyst based in Auckland, New Zealand! 
 
 📌 I am interested in cloud-based data engineering and am currently learning AWS cloud 👩‍💻
